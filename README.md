@@ -22,6 +22,8 @@
   gtag('config', 'UA-141229992-1');
 </script>
 
+
+<script src="//static-login.sendpulse.com/apps/fc3/build/loader.js" sp-form-id="e939ff177ca270d31825d0913656be397890c6c48e855ff1022078a62a610f03"></script>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/akoniaieva/akoniaieva.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
