@@ -69,3 +69,14 @@ window.addEventListener('load', function() {
     oSpP.push("Email","Email_посетителя_сайта");
 });
 </script>
+Notification.requestPermission().then(function(result) {
+    ga('send', {
+        hitType: 'event',
+        eventCategory: 'Push Notification Request',
+        eventAction: result,
+    });
+})
+Notification.requestPermission().then(function(result) {
+  if(result == "granted")
+      yaCounter452346.reachGoal('notification-permission-granted');
+ })
