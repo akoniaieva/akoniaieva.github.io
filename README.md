@@ -1,3 +1,10 @@
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W3PW5G4');</script>
+<!-- End Google Tag Manager -->
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
@@ -25,6 +32,10 @@
 
 
 <script src="//static-login.sendpulse.com/apps/fc3/build/loader.js" sp-form-id="e939ff177ca270d31825d0913656be397890c6c48e855ff1022078a62a610f03"></script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3PW5G4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/akoniaieva/akoniaieva.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
