@@ -30,8 +30,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   gtag('config', 'UA-141229992-1');
 </script>
 
-
-<script src="//static-login.sendpulse.com/apps/fc3/build/loader.js" sp-form-id="e939ff177ca270d31825d0913656be397890c6c48e855ff1022078a62a610f03"></script>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3PW5G4"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -79,15 +77,5 @@ window.addEventListener('load', function() {
     oSpP.push("Email","Email_посетителя_сайта");
 });
 </script>
-Notification.requestPermission().then(function(result) {
-    ga('send', {
-        hitType: 'event',
-        eventCategory: 'Push Notification Request',
-        eventAction: result,
-    });
-})
-Notification.requestPermission().then(function(result) {
-  if(result == "granted")
-      yaCounter452346.reachGoal('notification-permission-granted');
- })
+
 <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/451551cf32526ff8b5316bb6787a7f2c_1.js" async></script>
