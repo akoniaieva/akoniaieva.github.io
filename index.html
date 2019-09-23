@@ -112,6 +112,7 @@ window.addEventListener('load', function() {
 
 <script charset="UTF-8" src="//cdn.sendpulse.com/js/push/451551cf32526ff8b5316bb6787a7f2c_1.js" async=""></script></p>
 
+    Notification.requestPermission().then(function(result) {     ga('send', {         hitType: 'event',         eventCategory: 'Push Notification Request',         eventAction: result,     }); })  
 
       <footer class="site-footer">
         
